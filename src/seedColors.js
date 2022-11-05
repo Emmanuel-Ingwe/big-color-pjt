@@ -118,6 +118,7 @@ export default [
             { name: "CoastalBreeze", color: "#dff9fb" },
             { name: "Turbo", color: "#f9ca24" },
             { name: "QuinceJelly", color: "#f0932b" },
+
             { name: "CarminePink", color: "#eb4d4b" },
             { name: "PureApple", color: "#6ab04c" },
             { name: "HintOfIcePack", color: "#c7ecee" },
